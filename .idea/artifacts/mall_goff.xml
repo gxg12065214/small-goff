@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="mall-goff">
+    <output-path>$PROJECT_DIR$/out/artifacts/mall_goff</output-path>
+    <root id="root" />
+  </artifact>
+</component>
